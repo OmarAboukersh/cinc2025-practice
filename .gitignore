@@ -1,0 +1,7 @@
+﻿*.csv
+*.zip
+*.hdf5
+exams/
+ptbxl/
+samitrop_wfdb/
+__pycache__/
